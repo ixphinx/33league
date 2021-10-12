@@ -80,8 +80,10 @@ const Data = new Schema({
     
     
     /*------ imagenes ----- */
-    imgdiv: String,
-    imgurl: String,
+    title: String,
+    description: String,
+    imageURL: String,
+    public_id: String
 
 
 });
