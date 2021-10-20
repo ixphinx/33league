@@ -32,6 +32,7 @@ const Data = new Schema({
     jfechaamonestacion: String,
     jfechainicioamonestacion: String,
     jequipo: String,
+    jfederado: Boolean,
 
     /*------ Equipos ----- */
     enombre: String,
