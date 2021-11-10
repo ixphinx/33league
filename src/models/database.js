@@ -39,9 +39,6 @@ const Data = new Schema({
     eescudo: String,
     edivision: String,
     
-    //////Temporada////////////////////////////
-    temporada: String,
-    
 
     /*------- Torneos ------*/
     tnombre: String,
