@@ -43,6 +43,7 @@ const Data = new Schema({
     /*------- Torneos ------*/
     tnombre: String,
     tdivisional: String,
+    ttemporada: String,
 
 
     /*------- Fechas -------*/
